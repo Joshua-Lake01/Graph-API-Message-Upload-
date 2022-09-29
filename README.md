@@ -1,0 +1,2 @@
+# Graph-API-Message-Upload-
+This is mostly just formatted to the way needed for this situation. This is for Facebook. It allows to input page access keys, data ect and we can thus get it to send a request through the tokens to facebook to upload a item. To get tokens/keys you must login with your account and create an app on the facebook developers website. And then generate a token through the graph API explorer.
